@@ -1,0 +1,71 @@
+/*newsletter1 start*/
+.news{
+	padding:60px 0;
+	background-color: #f0f0f0;
+}
+.wrapper1, .wrapper2{
+	text-align: center;
+	width:50%;
+	margin:0 auto;	
+}
+.signup{
+	margin-bottom: 70px;
+}
+.form{
+	width:410px;
+	position:relative;
+	margin: 0 auto;
+}
+.form input{
+	width: 262px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    padding: 16px 16px 10px 0px;
+
+}
+.form button{
+	border: none;
+	background-color: transparent;
+	position: absolute;
+	top: 17px;
+    right: 66px;
+}
+/*newsletter1 end*/
+/*newsletter2 start*/
+.news{
+	background-color: #f0f0f0;
+	margin-top: 80px;
+	padding:60px 0;
+}
+.wrapper1, .wrapper2{
+	text-align: center;
+	width:50%;
+	margin:0 auto;	
+}
+.signup{
+	margin-bottom: 70px;
+}
+.form{
+	width:410px;
+	position:relative;
+	margin: 0 auto;
+}
+.form input{
+	width: 262px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    padding: 16px 16px 10px 0px;
+
+}
+.form button{
+	border: none;
+	background-color: transparent;
+	position: absolute;
+	top: 17px;
+    right: 66px;
+}
+/*newsletter2 end*/
